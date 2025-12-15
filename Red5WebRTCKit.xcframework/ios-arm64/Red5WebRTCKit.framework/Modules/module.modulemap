@@ -1,0 +1,5 @@
+framework module Red5WebRTCKit {
+    umbrella header "Red5WebRTCKit.h"
+    export *
+    module * { export * }
+}
