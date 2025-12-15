@@ -17194,385 +17194,385 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 246,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 299,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 356,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 407,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 456,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 711,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "BooleanLiteral",
       "offset": 758,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1051,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "IntegerLiteral",
       "offset": 8452,
       "length": 4,
       "value": "1280"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "IntegerLiteral",
       "offset": 8472,
       "length": 3,
       "value": "720"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "IntegerLiteral",
       "offset": 8488,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "IntegerLiteral",
       "offset": 12781,
       "length": 4,
       "value": "1280"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/CameraManager.swift",
       "kind": "IntegerLiteral",
       "offset": 12807,
       "length": 3,
       "value": "720"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig+BuildConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig+BuildConfig.swift",
       "kind": "StringLiteral",
       "offset": 265,
-      "length": 24,
-      "value": "\"qa-license.red5pro.com\""
+      "length": 48,
+      "value": "\"qa-stego-license-manager-sdk.cloud-qa.red5.net\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig+BuildConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig+BuildConfig.swift",
       "kind": "StringLiteral",
-      "offset": 326,
+      "offset": 350,
       "length": 218,
       "value": "\"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCf2P9g7UCICCuRsy0QWc2N\/QwnM54oLl29n1rt\/IZz4B\/RMGKTLo\/JdAPTRBh9YTd07Ch5KzF8WIklDWaxYXXdvOcRSEwyBfiNMPufKtVQQgoQeU5olwXe3wTdV9Q2hQvJqsa42Oj6vz9HQx4yi3yPHRBYnLTbClw5An4zziu6qwIDAQAB\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig+BuildConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig+BuildConfig.swift",
       "kind": "StringLiteral",
-      "offset": 579,
-      "length": 10,
-      "value": "\"0.0.1-qa\""
+      "offset": 603,
+      "length": 40,
+      "value": "\"Red5WebRTCKit-0.0.3.2-qa.b32.red5cloud\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
       "kind": "StringLiteral",
       "offset": 833,
       "length": 18,
       "value": "\"Red5Pro Core SDK\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 910,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
       "kind": "StringLiteral",
       "offset": 953,
       "length": 20,
       "value": "\"red5_license.cache\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
       "kind": "Array",
       "offset": 1028,
       "length": 230,
       "value": "[0xF1, 0xA3, 0x45, 0xB6, 0xC9, 0xF8, 0xD4, 0xA2, 0x9E, 0x4B, 0x1C, 0xA0, 0xF4, 0xE1, 0x7D, 0xC3, 0x8A, 0xB5, 0x21, 0xC2, 0xF0, 0x9A, 0xB4, 0x71, 0x24, 0xBB, 0x91, 0xE5, 0xE0, 0x8A, 0xF3, 0x18]"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5SDKConfig.swift",
       "kind": "Array",
       "offset": 1314,
       "length": 230,
       "value": "[0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55, 0xAA, 0x55]"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "IntegerLiteral",
       "offset": 8086,
       "length": 3,
       "value": "443"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "StringLiteral",
       "offset": 8158,
       "length": 6,
       "value": "\"live\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 8317,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "StringLiteral",
       "offset": 8352,
       "length": 9,
       "value": "\"publish\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 8403,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "IntegerLiteral",
       "offset": 8444,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 8483,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 8524,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "IntegerLiteral",
       "offset": 8562,
       "length": 3,
       "value": "640"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "IntegerLiteral",
       "offset": 8600,
       "length": 3,
       "value": "480"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "IntegerLiteral",
       "offset": 8635,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "IntegerLiteral",
       "offset": 8673,
       "length": 3,
       "value": "500"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "StringLiteral",
       "offset": 8713,
       "length": 6,
       "value": "\"H264\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "Array",
       "offset": 8820,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 8857,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9011,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9071,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9126,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9172,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9217,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9267,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9313,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClient.swift",
       "kind": "BooleanLiteral",
       "offset": 9362,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 944,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 991,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 1036,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 1083,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 1133,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 1172,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "FloatLiteral",
       "offset": 1618,
       "length": 3,
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 1681,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 1734,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "StringLiteral",
       "offset": 1792,
       "length": 21,
       "value": "\"com.red5pro.license\""
     },
     {
-      "filePath": "\/Users\/toddanderson\/Documents\/workspace\/red5pro\/red5pro-ios-sdk\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
+      "filePath": "\/Users\/qaadmin\/agent\/work\/21cb449dc0a5853\/Red5WebRTCKit\/Sources\/Red5WebRTCKit\/Red5WebrtcClientImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 46197,
       "length": 5,

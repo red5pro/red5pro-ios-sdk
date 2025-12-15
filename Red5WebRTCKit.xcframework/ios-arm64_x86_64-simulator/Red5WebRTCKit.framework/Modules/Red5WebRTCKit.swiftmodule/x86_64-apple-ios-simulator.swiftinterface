@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
-// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -module-name Red5WebRTCKit -package-name red5webrtckit
-// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature OpaqueTypeErasure -module-name Red5WebRTCKit -package-name red5webrtckit
 import AVFoundation
 import Combine
 import CommonCrypto
@@ -82,9 +81,7 @@ import _SwiftConcurrencyShims
   public func toggleAudio(mute: Swift.Bool)
   public func switchCamera()
   public func setPreferredVideoQuality(width: Swift.Int = 1280, height: Swift.Int = 720, fps: Swift.Int = 30)
-  #if compiler(>=5.3) && $NonescapableTypes
   public func setWebRTCActive(_ active: Swift.Bool, capturer: WebRTC.RTCCameraVideoCapturer? = nil)
-  #endif
   @objc deinit
   public func resetCameraManager()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
@@ -102,9 +99,7 @@ import _SwiftConcurrencyShims
     get
   }
   @_Concurrency.MainActor @preconcurrency public var webRTCRenderer: (any WebRTC.RTCVideoRenderer)?
-  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraManager: Red5WebRTCKit.CameraManager, webRTCRenderer: (any WebRTC.RTCVideoRenderer)? = nil)
-  #endif
   @_Concurrency.MainActor @preconcurrency public func makeUIView(context: Red5WebRTCKit.CameraPreview.Context) -> UIKit.UIView
   @_Concurrency.MainActor @preconcurrency public func updateUIView(_ uiView: UIKit.UIView, context: Red5WebRTCKit.CameraPreview.Context)
   @_Concurrency.MainActor @preconcurrency public func makeCoordinator() -> Red5WebRTCKit.CameraPreview.Coordinator
@@ -199,15 +194,11 @@ public protocol Red5WebrtcClient : AnyObject {
   func isSubscribing() -> Swift.Bool
   func isReleased() -> Swift.Bool
   func isLicenseValidated() -> Swift.Bool
-  #if compiler(>=5.3) && $NonescapableTypes
   func getVideoCapturer() -> WebRTC.RTCVideoCapturer?
-  #endif
   func setVideoCapturer(_ videoCapturer: WebRTC.RTCVideoCapturer)
   func getConfig() -> Red5WebRTCKit.Red5WebrtcClientConfig
   func setVideoRenderer(_ renderer: any WebRTC.RTCVideoRenderer)
-  #if compiler(>=5.3) && $NonescapableTypes
   var delegate: (any Red5WebRTCKit.Red5ProWebrtcEventDelegate)? { get set }
-  #endif
 }
 public protocol Red5ProWebrtcEventDelegate : AnyObject {
   func onPublishStarted()
