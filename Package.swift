@@ -7,7 +7,7 @@ let package = Package(
     products: [
         .library(
             name: "Red5WebRTCKit",
-            targets: ["Red5WebRTCKitWrapper"]
+            targets: ["Red5WebRTCKit"]
         ),
         .library(
             name: "Red5PubNubClient",
@@ -15,42 +15,22 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(
-            url: "https://github.com/stasel/WebRTC.git",
-            from: "140.0.0"
-        ),
-        .package(
-            url: "https://github.com/pubnub/swift.git",
-            from: "10.0.1"
-        )
+        .package(url: "https://github.com/stasel/WebRTC.git", from: "140.0.0"),
+        .package(url: "https://github.com/pubnub/swift.git", from: "10.0.1")
     ],
     targets: [
-        // The pre-built XCFramework containing Red5WebRTCKit
         .binaryTarget(
-            name: "Red5WebRTCKitFramework",
-            path: "Red5WebRTCKit.xcframework"
-        ),
-        // Wrapper target that links the framework with its dependencies
-        .target(
-            name: "Red5WebRTCKitWrapper",
-            dependencies: [
-                "Red5WebRTCKitFramework",
-                .product(name: "WebRTC", package: "WebRTC")
-            ],
-            path: "Sources/Red5WebRTCKitWrapper",
-            linkerSettings: [
-                .linkedFramework("WebRTC"),
-                .linkedLibrary("swiftCore"),
-                .linkedLibrary("swiftFoundation")
-            ]
+            name: "Red5WebRTCKit",
+            url: "https://github.com/red5pro/red5pro-ios-sdk/releases/download/1.0.0-release.b1.red5cloud/Red5WebRTCKit-1.0.0-release.b1.red5cloud.xcframework.zip",
+            checksum: "a8a1d0d0704a1d10415588cf9a1eccbe748c7881bc97b678f2ecc92173916f47"
         ),
         .target(
             name: "Red5PubNubClient",
             dependencies: [
-                "Red5WebRTCKitFramework",
+                "Red5WebRTCKit",
                 .product(name: "PubNubSDK", package: "swift")
             ],
-            path: "Red5PubNubClient/Sources"
+            path: "Sources/Red5PubNubClient"
         )
     ]
 )

@@ -8,41 +8,35 @@ Build low-latency live streaming apps with the Red5 iOS WebRTC SDK.
 
 Add Red5WebRTCKit to your project:
 
-1. In Xcode: File > Add Package Dependencies
-2. Enter the repository URL
-3. Select version/branch
-4. Add to your target
-
-The dependencies (WebRTC) will be automatically resolved.
+1. In Xcode: **File → Add Package Dependencies**
+2. Enter: `https://github.com/red5pro/red5pro-ios-sdk`
+3. Select version: **1.0.0-release.b1.red5cloud**
+4. Add `Red5WebRTCKit` to your target
 
 ## Usage
 
 ```swift
-// Import the package (this brings in Red5WebRTCKit, WebRTC)
 import Red5WebRTCKit
 import WebRTC
 
 // Create video renderer
 let videoRenderer = RTCMTLVideoView()
 
-// Configure client
+// Configure and build client
 let client = Red5WebrtcClientBuilder()
     .setStreamManagerHost("your-host.cloud.red5.net")
     .setPort(443)
     .setAppName("live")
     .setStreamName("myStream")
+    .setLicenseKey("your-license-key")
     .setVideoEnabled(true)
     .setAudioEnabled(true)
     .setEventListener(self)
     .build()
 
-// Set renderer
+// Set renderer and start
 client.setVideoRenderer(videoRenderer)
-
-// Start preview
 client.startPreview()
-
-// Publish
 client.publish()
 ```
 
@@ -50,13 +44,14 @@ client.publish()
 
 - iOS 15.0+
 - Xcode 14.0+
-- Swift 5.5+
+- Swift 5.9+
 
 ## Dependencies
 
-This package automatically includes:
-- WebRTC (140.0.0)
+Automatically included:
+- [WebRTC](https://github.com/stasel/WebRTC) (140.0.0+)
+- [PubNub](https://github.com/pubnub/swift) (10.0.1+) - for Red5PubNubClient only
 
 ## License
 
-[see license](LICENSE)
+See [LICENSE](LICENSE) file.
