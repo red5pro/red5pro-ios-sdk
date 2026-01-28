@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Red5WebRTCKit'
-  s.version          = '1.0.0-release.b2.red5cloud'
+  s.version          = '1.0.0-release.b3.red5cloud'
   s.summary          = 'Red5 Pro iOS WebRTC SDK'
   s.description      = <<-DESC
     Build low-latency live streaming apps with the Red5 iOS WebRTC SDK.
