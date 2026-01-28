@@ -9,8 +9,8 @@ Build low-latency live streaming apps with the Red5 iOS WebRTC SDK.
 Add Red5WebRTCKit to your project:
 
 1. In Xcode: **File → Add Package Dependencies**
-2. Enter: `https://github.com/red5pro/red5pro-ios-sdk`
-3. Select version: **1.0.0-release.b1.red5cloud**
+2. Enter: `https://github.com/YOUR_ORG/YOUR_REPO`
+3. Select version: **0.0.1**
 4. Add `Red5WebRTCKit` to your target
 
 ## Usage

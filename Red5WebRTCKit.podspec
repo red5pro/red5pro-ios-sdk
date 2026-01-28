@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Red5WebRTCKit'
-  s.version          = '1.0.0-release.b1.red5cloud'
+  s.version          = '1.0.0-release.b2.red5cloud'
   s.summary          = 'Red5 Pro iOS WebRTC SDK'
   s.description      = <<-DESC
     Build low-latency live streaming apps with the Red5 iOS WebRTC SDK.
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   
   # Source location - auto-updated by setup-distribution-simple.sh
   s.source           = { 
-    :http => 'https://github.com/red5pro/red5pro-ios-sdk/releases/download/1.0.0-release.b1.red5cloud/Red5WebRTCKit-1.0.0-release.b1.red5cloud.xcframework.zip'
+    :http => 'https://github.com/red5pro/red5pro-ios-sdk/releases/download/1.0.0/Red5WebRTCKit-1.0.0.xcframework.zip'
   }
 
   s.ios.deployment_target = '15.0'
