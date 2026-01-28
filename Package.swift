@@ -1,9 +1,6 @@
 // swift-tools-version: 5.9
 import PackageDescription
 
-// ⚠️  LOCAL TESTING ONLY
-// For production, regenerate with --github-repo flag
-
 let package = Package(
     name: "Red5WebRTCKit",
     platforms: [.iOS(.v15)],
@@ -24,7 +21,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Red5WebRTCKit",
-            path: "Red5WebRTCKit.xcframework"
+            url: "https://github.com/red5pro/red5pro-ios-sdk/releases/download/1.0.0/Red5WebRTCKit-1.0.0-release.b5.red5cloud.xcframework.zip",
+            checksum: "092ed881a7cce0c2363b9348c5715071a245b8296899791c0af1a4a1481c9d2a"
         ),
         .target(
             name: "Red5PubNubClient",
