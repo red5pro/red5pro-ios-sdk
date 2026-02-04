@@ -10,7 +10,7 @@ Add Red5WebRTCKit to your project:
 
 1. In Xcode: **File → Add Package Dependencies**
 2. Enter: `https://github.com/red5pro/red5pro-ios-sdk`
-3. Select version: **1.0.0**
+3. Select version: **2.0.0.3**
 4. Add `Red5WebRTCKit` to your target
 5. Add `Red5PubNubClient` to your target
 
