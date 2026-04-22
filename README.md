@@ -6,8 +6,9 @@ Build low-latency live streaming apps with the Red5 iOS WebRTC SDK. Stream video
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
+1. [Changelog](#changelog)
+2. [Introduction](#introduction)
+3. [Installation](#installation)
 4. [Requirements](#requirements)
 5. [Quick Start](#quick-start)
 6. [Usage](#usage)
@@ -33,6 +34,16 @@ Build low-latency live streaming apps with the Red5 iOS WebRTC SDK. Stream video
    - 8.3 [Mute/Unmute Microphone](#muteunmute-microphone)
 9. [Conferencing (Multi-user Rooms)](#conferencing-multi-user-rooms)
 10. [Chat Support](#chat-support)
+
+## Changelog
+
+### v1.0.0
+- Initial release of the Red5 iOS WebRTC SDK
+- Ultra-low-latency live streaming using WebRTC
+- Publishing and subscribing support
+- Compatibility with Red5 Pro Cloud (Stream Manager) and standalone servers
+- Multi-user video conferencing
+- Built-in PubNub-based real-time chat
 
 ## Installation
 
