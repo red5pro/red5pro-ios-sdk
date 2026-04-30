@@ -21,8 +21,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Red5WebRTCKit",
-            url: "https://github.com/red5pro/red5pro-ios-sdk/releases/download/2.1.0.2/Red5WebRTCKit-2.1.0.2-release.b11.red5cloud.xcframework.zip",
-            checksum: "65ff1a1e332193e5cf7c637fe693bde6bf710d7140c5a80697680e510785fbbd"
+            url: "https://github.com/red5pro/red5pro-ios-sdk/releases/download/2.1.0.2/Red5WebRTCKit-2.1.0.2-release.b12.red5cloud.xcframework.zip",
+            checksum: "91b71785e0500647855de136372d40707f35e5b9c81fc8bac2bba7700835aace"
         ),
         .target(
             name: "Red5PubNubClient",
