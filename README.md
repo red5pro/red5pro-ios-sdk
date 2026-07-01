@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Build low-latency live streaming apps with the Red5 iOS WebRTC SDK. Stream video using WebRTC, and subscribe (play) streams via WebRTC. Compatible with both Red5Pro Cloud (Stream Manager) and standalone Red5Pro servers.
+Build low-latency live streaming apps with the Red5 iOS WebRTC SDK. Stream video using WebRTC, and subscribe (play) streams via WebRTC. Compatible with both [Red5 Cloud](https://www.red5.net/red5-cloud-low-latency-live-streaming-platform/) (Stream Manager) and standalone [Red5 Pro](https://www.red5.net/red5-pro/low-latency-streaming-software/) servers.
 
 ## Table of Contents
 
